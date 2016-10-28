@@ -37,7 +37,7 @@ SOFTWARE.
 
     <dependency
         id="es6-promise-plugin"
-        url="https://github.com/vstirbu/PromisesPlugin.git#3.0.2">
+        version="3.0.2">
     </dependency>
 
     <js-module src="www/branch.js" name="Branch">
